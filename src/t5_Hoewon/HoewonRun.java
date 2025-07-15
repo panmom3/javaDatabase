@@ -2,6 +2,7 @@ package t5_Hoewon;
 
 import java.util.Scanner;
 
+// 회원가입 최종본(20250715 1728)
 public class HoewonRun {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
@@ -34,7 +35,7 @@ public class HoewonRun {
 					run = false;
 			}
 		}
-		System.out.println("작업을 종료합니다.......");
+		System.out.println("작업을 종료합니다....!!!");
 		
 		scanner.close();
 	}
